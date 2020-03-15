@@ -1,0 +1,24 @@
+.pizza-list-page {
+    display: flex;
+    flex-direction: column;
+
+    h2 {
+        text-align: center;
+    }
+
+    .card-group {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+
+        a {
+            text-decoration: none;
+
+           >div:hover {
+                // border: 2px solid red;
+                box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) ;
+            }
+        }
+
+    }
+}

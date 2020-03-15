@@ -1,0 +1,5 @@
+export const SET_PIZZA_LIST = "[PIZZA LIST] SET_PIZZA_LIST";
+export const SET_PIZZA_DETAILS = "[PIZZA] SET_PIZZA_DETAILS";
+
+export const OPEN_MODAL = "[MODAL] OPEN_MODAL";
+export const CLOSE_MODAL = "[MODAL] CLOSE_MODAL";
